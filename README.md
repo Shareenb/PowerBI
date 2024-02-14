@@ -39,6 +39,6 @@ Let's make data analysis even more insightful! 🚀💡
 
 ## Credits
 
-This project is brought to you by [Shareen Banu]. Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/shareen-banu/] for more discussions and collaborations.
+This project is brought to you by Shareen Banu. Feel free to connect with me on LinkedIn https://www.linkedin.com/in/shareen-banu/ for more discussions and collaborations.
 
 Enjoy exploring the Superstore Sales Data Analysis! 🌐📈 #PowerBI #DataAnalysis #SuperstoreSales #GitHub #DataDrivenDecisionMaking
